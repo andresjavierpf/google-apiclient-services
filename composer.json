@@ -1,8 +1,10 @@
 {
-    "name": "google/apiclient-services",
+    "name": "google/devman-apiclient-services",
     "type": "library",
-    "description": "Client library for Google APIs",
-    "keywords": ["google"],
+    "description": "Client library for Google APIs only with Sheets",
+    "keywords": [
+        "google"
+    ],
     "homepage": "http://developers.google.com/api-client-library/php",
     "license": "Apache-2.0",
     "require": {
