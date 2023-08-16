@@ -17,5 +17,10 @@
         "files": [
             "autoload.php"
         ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.312.0"
+        }
     }
 }
